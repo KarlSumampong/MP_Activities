@@ -1,5 +1,3 @@
-console.log('Before binding event');
-
 // bind
 let txtInput = document.querySelector('#txtInput');
 let btnReplaceAll = document.querySelector('#btnReplaceAll');
